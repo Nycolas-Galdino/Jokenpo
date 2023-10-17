@@ -1,4 +1,4 @@
-# Jokenpo - The game! [Python 3.11](https://img.shields.io/badge/-Python-000?&logo=python)
+# Jokenpo - The game ![Python 3.11](https://img.shields.io/badge/-Python-000?&logo=Python)
 Come and have fun in a simple game developed by me!
 
 -----
